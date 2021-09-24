@@ -1,4 +1,5 @@
 <?php
+
 namespace PhpNwSykes;
 
 use Exception;
